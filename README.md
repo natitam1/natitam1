@@ -46,7 +46,7 @@
 </a>
 
   <a href="https://twitter.com/natitam11" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
