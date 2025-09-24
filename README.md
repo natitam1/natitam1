@@ -1,4 +1,8 @@
-<h1 align="center">✨ Natnael Tamiru ✨</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Natnael%20Tamiru%20✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+</p>
+
+<!-- <h1 align="center">✨ Natnael Tamiru ✨</h1> -->
 
 
 <p align="center">
@@ -8,9 +12,7 @@
 </p>
   <h3 align="center">⚡ Precision-Driven Software Engineer ⚡</h3>
 <p align="center">
-  I'm a <b>2nd-year Computer Science student</b> at <b>Addis Ababa University</b>.  
-  I love <b>building things from scratch</b>, focusing on <b>clean design</b> and <b>meticulous coding</b>, always striving for <b>perfection</b>.  
-  I enjoy experimenting with <b>new tech</b> — from <b>AI</b> 🤖 to <b>DevOps</b> ⚙️ — and turning ideas into <b>functional, interactive projects</b>. 🚀
+ I’m really into building things clean, smooth, and interactive apps. I’m from Ethiopia, and I love experimenting with new tech — from AI 🤖 to DevOps ⚙️ — always trying to turn ideas into real projects. I’m meticulous, detail-focused, and always strive for perfection in everything I code. Actually, I’m a 2nd-year Computer Science student at Addis Ababa University.
 </p>
 
 ---
