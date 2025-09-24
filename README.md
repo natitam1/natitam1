@@ -1,18 +1,7 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=neon&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=280&color=00ffff&glow=true" alt="Natnael Tamiru Neon Banner" />
-</p>
 
-<!-- <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=neon&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=280&color=00ffff&glow=true" alt="Natnael Tamiru Neon Banner" />
-</p> -->
-<!-- <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=curved&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=260&colorStart=ff0080&colorEnd=7928CA" alt="Natnael Tamiru Banner" />
-</p> -->
-
-<!-- <p align="center">
+ <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=250" alt="Natnael Tamiru Banner" />
-</p> -->
-
+</p> 
 
 
 <!-- <h1 align="center">✨ Natnael Tamiru ✨</h1> -->
