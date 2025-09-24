@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=250" alt="Natnael Tamiru Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=100" alt="Natnael Tamiru Banner" />
 </p> 
 
 
