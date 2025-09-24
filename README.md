@@ -17,7 +17,9 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Matrix Code"/>  
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer|Aspiring+AI+Engineer|Mobile+App+Creator" alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Aspiring+AI+Engineer;Mobile+App+Creator" alt="Typing SVG">
+</p>
 
 
 <p align="center">
