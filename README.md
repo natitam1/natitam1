@@ -70,5 +70,4 @@
 
 
 ---
-
-*"Striving for perfection, one line of code at a time."*  
+  
