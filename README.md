@@ -1,8 +1,10 @@
-<h1 align="center">Natnael Tamiru</h1>
-<h3 align="center">Precision-Driven Software Engineer</h3>
+<h1 align="center">✨ Natnael Tamiru ✨</h1>
+<h3 align="center">⚡ Precision-Driven Software Engineer ⚡</h3>
 
 <p align="center">
-  I'm a 2nd-year Computer Science student at Addis Ababa University. I love building things from scratch, focusing on clean design and meticulous coding, always striving for perfection. I enjoy experimenting with new tech, from AI to DevOps, and turning ideas into functional, interactive projects.
+  I'm a <b>2nd-year Computer Science student</b> at <b>Addis Ababa University</b>.  
+  I love <b>building things from scratch</b>, focusing on <b>clean design</b> and <b>meticulous coding</b>, always striving for <b>perfection</b>.  
+  I enjoy experimenting with <b>new tech</b> — from <b>AI</b> 🤖 to <b>DevOps</b> ⚙️ — and turning ideas into <b>functional, interactive projects</b>. 🚀
 </p>
 
 ---
@@ -29,12 +31,28 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats & Languages  
 
 <p align="center">
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=natitam1&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/natitam1)
+  <a href="https://github.com/natitam1">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=natitam1&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox" />
+  </a>
 </p>
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natitam1&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natitam1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 🎨 A Little Artistic Touch  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Matrix Code"/>  
+</p>
+
+---
+
+⭐ *"Striving for perfection, one line of code at a time."*  
