@@ -1,5 +1,9 @@
 <h1 align="center">✨ Natnael Tamiru ✨</h1>
-<h3 align="center">⚡ Precision-Driven Software Engineer ⚡</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=⚡+Precision-Driven+Software+Engineer+⚡" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>  
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
@@ -47,11 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natitam1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
- 
-
-
 
 ---
 
