@@ -1,6 +1,17 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/✨%20Natnael%20Tamiru%20✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" height="80"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ff0080;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#7928CA;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="70%" font-size="90" text-anchor="middle" fill="url(#grad)" font-family="Verdana, Geneva, sans-serif">
+      ✨ Natnael Tamiru ✨
+    </text>
+  </svg>
 </p>
+
 
 <!-- <h1 align="center">✨ Natnael Tamiru ✨</h1> -->
 
