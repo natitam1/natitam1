@@ -1,5 +1,10 @@
 <h1 align="center">✨ Natnael Tamiru ✨</h1>
 <h3 align="center">⚡ Precision-Driven Software Engineer ⚡</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Matrix Code"/>  
+</p>
 
 <p align="center">
   I'm a <b>2nd-year Computer Science student</b> at <b>Addis Ababa University</b>.  
@@ -44,14 +49,9 @@
 </p>
 
 ---
+ 
 
-## 🎨 A Little Artistic Touch  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>  
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Matrix Code"/>  
-</p>
 
 ---
 
