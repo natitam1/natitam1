@@ -1,7 +1,12 @@
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=✨%20Natnael%20Tamiru%20✨&width=1000&height=400" alt="Natnael Tamiru Banner" />
+  </a>
+</p>
 
- <p align="center">
+ <!-- <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=100" alt="Natnael Tamiru Banner" />
-</p> 
+</p>  -->
 
 
 <!-- <h1 align="center">✨ Natnael Tamiru ✨</h1> -->
