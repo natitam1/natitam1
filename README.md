@@ -57,9 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natitam1&layout=compact&theme=github_dark&hide_border=true&title_color=00bfbf&icon_color=00bfbf" alt="Natnael's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=natitam1&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%2C%20Y" alt="Natnael's GitHub streak" />
-</p>
+
 
 
 
