@@ -4,13 +4,6 @@
   </a>
 </p>
 
- <!-- <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨%20Natnael%20Tamiru%20✨&width=1200&height=100" alt="Natnael Tamiru Banner" />
-</p>  -->
-
-
-<!-- <h1 align="center">✨ Natnael Tamiru ✨</h1> -->
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>  
@@ -47,23 +40,30 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats & Languages  
+<!-- Profile Views & Other Badges -->
 
 <p align="center">
-  <a href="https://github.com/natitam1">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=natitam1&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox" />
+  <img src="https://komarev.com/ghpvc/?username=natitam1" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Natnael%20Tamiru-is%20Available%20for%20a%20Remote%20Work-greenyellow" />
+  <a href="https://user-badge.committers.top/ethiopia_private/natitam1">
+    <img src="https://user-badge.committers.top/ethiopia_private/natitam1.svg" alt="committers.top badge"/>
   </a>
 </p>
 
+<h2 align="center">My GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natitam1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natitam1&show_icons=true&theme=github_dark&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf" alt="Natnael's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natitam1&layout=compact&theme=github_dark&hide_border=true&title_color=00bfbf&icon_color=00bfbf" alt="Natnael's Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natitam1&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Natnael's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natitam1&theme=algolia" alt="GitHub Profile Summary" />
+</p>
 
 
-
-
----
   
