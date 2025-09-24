@@ -23,7 +23,7 @@
 
 
 <p align="center">
- I’m really into building things clean, smooth, and interactive apps. I’m from Ethiopia, and I love experimenting with new tech — from AI 🤖 to DevOps ⚙️ — always trying to turn ideas into real projects. I’m meticulous, detail-focused, and always strive for perfection in everything I code. Actually, I’m a 2nd-year Computer Science student at Addis Ababa University.
+ I’m really into building things clean, smooth, and interactive apps. I’m from Ethiopia, and I love experimenting with new tech — from AI 🤖 to DevOps ⚙️ — always trying to turn ideas into real projects. I’m meticulous, detail-focused, and always strive for perfection in everything I code. Also 2nd-year Computer Science student at Addis Ababa University.
 </p>
 
 ---
@@ -31,20 +31,20 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://t.me/your-telegram" target="_blank">
+  <a href="https://t.me/natitam1" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/natitam1/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="natnaeltamiru98@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/your-youtube" target="_blank">
+  <a href="https://www.youtube.com/channel/natitam11" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/natitam11" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
