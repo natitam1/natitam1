@@ -22,10 +22,6 @@
 </p>
 
 
-<p align="center">
- I’m really into building things clean, smooth, and interactive apps. I’m from Ethiopia, and I love experimenting with new tech — from AI 🤖 to DevOps ⚙️ — always trying to turn ideas into real projects. I’m meticulous, detail-focused, and always strive for perfection in everything I code. Also 2nd-year Computer Science student at Addis Ababa University.
-</p>
-
 ---
 
 ## 🌐 Connect
