@@ -17,7 +17,12 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Matrix Code"/>  
 </p>
-  <h3 align="center">⚡ Precision-Driven Software Engineer ⚡</h3>
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=⚡%20Precision-Driven%20Software%20Engineer%20⚡&width=1000&height=200" alt="Precision-Driven Software Engineer Banner" />
+  </a>
+</p>
+
 <p align="center">
  I’m really into building things clean, smooth, and interactive apps. I’m from Ethiopia, and I love experimenting with new tech — from AI 🤖 to DevOps ⚙️ — always trying to turn ideas into real projects. I’m meticulous, detail-focused, and always strive for perfection in everything I code. Actually, I’m a 2nd-year Computer Science student at Addis Ababa University.
 </p>
