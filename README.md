@@ -31,15 +31,16 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://t.me/natitam1" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/natitam1/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="natnaeltamiru98@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="https://t.me/natitam1" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="mailto:natnaeltamiru98@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   <a href="https://www.youtube.com/channel/natitam11" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
