@@ -3,11 +3,10 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>  
-  <h3 align="center">⚡ Precision-Driven Software Engineer ⚡</h3>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Matrix Code"/>  
 </p>
-
+  <h3 align="center">⚡ Precision-Driven Software Engineer ⚡</h3>
 <p align="center">
   I'm a <b>2nd-year Computer Science student</b> at <b>Addis Ababa University</b>.  
   I love <b>building things from scratch</b>, focusing on <b>clean design</b> and <b>meticulous coding</b>, always striving for <b>perfection</b>.  
