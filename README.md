@@ -58,8 +58,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natitam1&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Natnael's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=natitam1&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Natnael's GitHub streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natitam1&theme=algolia" alt="GitHub Profile Summary" />
