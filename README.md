@@ -40,7 +40,7 @@
 </p>
 
 ---
-<!-- Profiles Views & Other Badges -->
+<!-- Profiles Views & Other Badge -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=natitam1" alt="Profile views"/>
