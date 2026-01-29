@@ -40,30 +40,6 @@
 </p>
 
 ---
-<!-- Profiles Views & Other Badge -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=natitam1" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Natnael%20Tamiru-is%20Available%20for%20a%20Remote%20Work-greenyellow" />
-  <a href="https://user-badge.committers.top/ethiopia_private/natitam1">
-    <img src="https://user-badge.committers.top/ethiopia_private/natitam1.svg" alt="committers.top badge"/>
-  </a>
-</p>
-
-<h2 align="center">My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natitam1&show_icons=true&theme=github_dark&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf" alt="Natnael's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natitam1&layout=compact&theme=github_dark&hide_border=true&title_color=00bfbf&icon_color=00bfbf" alt="Natnael's Top Languages" />
-</p>
-
-
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natitam1&theme=algolia" alt="GitHub Profile Summary" />
-</p>
 
 
   
