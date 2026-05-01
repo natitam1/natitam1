@@ -1,11 +1,4 @@
 <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=✨%20Natnael%20Tamiru%20✨&width=1300&height=100" alt="Natnael Tamiru Banner" />
-  </a>
-</p>
-
-
-<p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>  
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Brain"/>  
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Matrix Code"/>  
