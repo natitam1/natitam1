@@ -10,7 +10,7 @@
 
 ---
 
-## Connect ⚡️
+## Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natitam1/" target="_blank">
